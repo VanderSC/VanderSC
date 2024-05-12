@@ -8,7 +8,7 @@
 - Power BI
 </h3>
 
-- Linkedin: [www.linkedin.com/in/vanderlei-carvalho-47062a196](www.linkedin.com/in/vanderlei-carvalho-47062a196)
+- Linkedin: [www.linkedin.com/in/vanderlei-carvalho-)
 
 - 📫 Meu email: **vanderleisc2@gmail.com**
 
