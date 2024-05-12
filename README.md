@@ -1,5 +1,12 @@
 <h1 align="center">Oi 👋, Eu sou o Vanderlei</h1>
 <h3 align="center">Focado em ser analista/cientista de dados.</h3>
+<h3>
+- Python
+- Jupyter Notebook
+- SQL
+- Excel
+- Power BI
+</h3>
 
 - Linkedin: [www.linkedin.com/in/vanderlei-carvalho-47062a196](www.linkedin.com/in/vanderlei-carvalho-47062a196)
 
