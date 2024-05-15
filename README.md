@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Vanderlei</h1>
-<h3 align="center">Focado em ser analista/cientista de dados.</h3>
+<h3 align="center">Focado em ser analista/cientista de dados.</h3
 <h3>
 - Python
 - Jupyter Notebook
