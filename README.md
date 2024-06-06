@@ -1,4 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Vanderlei</h1>
+<h3>Sou estudante do curso de Sistemas de Informação na UFPI, tenho 22 anos.</h3>
 <h3 align="center">Focado em ser analista/cientista de dados.</h3>
 <h3>
 Python
